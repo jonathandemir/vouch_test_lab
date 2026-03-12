@@ -1,5 +1,5 @@
 def get_database_credentials():
-    # TEST: Hardcoded secrets um den Vouch-Scanner zu triggern 3
+    # TEST: Hardcoded secrets um den Vouch-Scanner zu triggern 4
     stripe_api_key = "sk_live_51T7CAQCYfut0t43YFk7qu1m6TpNRXYpbwxCaxafqLOK"
     db_password = "admin_password_12345!"
 
