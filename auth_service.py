@@ -1,6 +1,6 @@
 # Ein absichtlicher Fehler, den Semgrep oder die KI finden sollte
 def login():
-    password = "admin12345" 
+    password = "admin123456" 
     return password
 
 
